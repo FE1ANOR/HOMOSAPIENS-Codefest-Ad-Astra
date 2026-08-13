@@ -1,0 +1,5 @@
+# Dependencias directas para ejecutar generador.py
+FlagEmbedding
+faiss-cpu
+numpy
+torch
